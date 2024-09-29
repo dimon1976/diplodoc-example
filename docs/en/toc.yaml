@@ -1,5 +1,11 @@
 title: Documentation Project Template
 href: index.yaml
+navigation:
+  header:
+    rightItems:
+      - type: controls
+      - type: search
+
 items: 
   - name: About
     href: about.md
