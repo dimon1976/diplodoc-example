@@ -18,20 +18,7 @@ To make changes and apply them:
 - run "Release" action and wait till completion 
 - done, updates should be available for everyone. 
 
-{% list tabs %}
-
-- Yandex
-
-  Текст таба 1.
-
-  * Можно использовать списки.
-  * И **другую** разметку.
-
-- Gmail
-
-  Текст таба 2.
-
-{% endlist %}
+Test
 
 
 
