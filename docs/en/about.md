@@ -18,6 +18,22 @@ To make changes and apply them:
 - run "Release" action and wait till completion 
 - done, updates should be available for everyone. 
 
+{% list tabs %}
+
+- Название таба 1
+
+  Текст таба 1.
+
+  * Можно использовать списки.
+  * И **другую** разметку.
+
+- Название таба 2
+
+  Текст таба 2.
+
+{% endlist %}
+
+
 
 In case if you would like to make proxy from your own domain to this Documentation - please [Contact Us](https://diplodoc.com/#contact) - we will support you accordingly till appropriate documentation creation. 
 
