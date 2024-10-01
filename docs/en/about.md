@@ -18,6 +18,8 @@ To make changes and apply them:
 - run "Release" action and wait till completion 
 - done, updates should be available for everyone. 
 
+<iframe src="https://vk.com/video_ext.php?oid=-211967493&id=456239880&hd=2&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+
 Test
 
 
